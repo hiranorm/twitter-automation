@@ -8,3 +8,14 @@
 # 廃棄
 ただ、ツイッターのAPI要件が厳しくなり、運用する意味も感じられなくなったので、開発を停止しました。
 
+四年前のプログラムで手も入れてないのでひどいかもです。
+
+config.pyを作成し、ツイッターのAPI利用のための四つのキーを書けば動いていました。
+今も動くかは不明。
+
+```config.py
+CONSUMER_KEY
+CONSUMER_SECRET
+ACCESS_TOKEN
+ACCESS_TOKEN_SECRET
+```
